@@ -60,9 +60,6 @@ defaults write NSGlobalDomain AppleShowAllExtensions -bool true
 # Finder: disable the warning when changing a file extension
 defaults write com.apple.finder FXEnableExtensionChangeWarning -bool false
 
-# Finder: empty Trash securely by default
-defaults write com.apple.finder EmptyTrashSecurely -bool true
-
 # Finder: allow quitting via ⌘ + Q; doing so will also hide desktop icons
 defaults write com.apple.finder QuitMenuItem -bool true
 
