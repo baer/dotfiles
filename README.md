@@ -1,3 +1,7 @@
+# No Longer Maintained. For the latest, see https://github.com/baer/zsh-dotfiles
+
+---
+
 # Dotfiles (Eric Baer)
 
     My OS X dotfiles.
